@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Rafael Vital, my pronouns are He/Him! I'm a Brazilian programmer focused on game development.
+My name is Rafael Vital, my pronouns are He/Him/She/Her/They/Them! I'm a Brazilian programmer focused on game development.
 <!--
 **rafavital/rafavital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
